@@ -1,0 +1,19 @@
+{
+  "name": "simple-password-generator",
+  "version": "1.0.0",
+  "description": "A simple CLI password generator",
+  "main": "index.js",
+  "bin": {
+    "simple-password-generator": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT"
+}
